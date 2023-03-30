@@ -1,2 +1,2 @@
-University group website. 
-# swag-paper-template
+Consortium website. 
+# deepwave-paper-template
